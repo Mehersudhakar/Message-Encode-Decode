@@ -22,4 +22,9 @@ To run this project, you need the following:
    ```bash
    git clone https://github.com/yourusername/message-encode-decode.git
    ```
-2. 
+2. After cloning, navigate to the project directory
+3. **Execute the Python script**:
+   ```bash
+   python encode_decode.py
+   ```
+
